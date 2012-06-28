@@ -36,3 +36,9 @@ gem 'jquery-rails'
 
 # To use debugger
 # gem 'debugger'
+
+gem 'authlogic'
+gem 'rails3-generators'
+gem 'dynamic_form'
+gem 'cancan'
+gem 'haml'
